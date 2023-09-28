@@ -1,0 +1,12 @@
+.kontainer {
+    height: 100vh;
+    position: relative;
+  }
+  
+  #loading,
+  #result {
+    display: none;
+  }
+  
+
+
