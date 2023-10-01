@@ -19,6 +19,7 @@ Jalankan Program di Local Computer Untuk kolaborasi
 6. di Terminal "php artisan migrate"
 7. di Terminal "php artisan serve"
 8. di Terminal baru "npm run dev"
+9. di browser buka localhost:8000/
 
 ## Hapus Readme.md di local file sebelum push di github
 
