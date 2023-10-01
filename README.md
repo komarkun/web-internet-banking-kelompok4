@@ -21,6 +21,12 @@ Jalankan Program di Local Computer Untuk kolaborasi
 8. di Terminal baru "npm run dev"
 9. di browser buka localhost:8000/
 
+## Fitur Web Internet Banking Sederhana
+1. Homepage internet banking (Sudah Tinggal Penambahan dan Perbaikan)
+2. Login (Sudah Tinggal Penambahan dan Perbaikan)
+3. Logout (Sudah Tinggal Penambahan dan Perbaikan)
+4. Edit Profil (Sudah Tinggal Penambahan dan Perbaikan)
+5. Menampilkan Saldo (Belum)
 ## Hapus Readme.md di local file sebelum push di github
 
 ## Demo sebelum pengerjaan ada di rekaman zoom di grup chat
