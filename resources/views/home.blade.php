@@ -19,12 +19,14 @@
     <body>
         <!-- Navigation-->
         <nav class="navbar navbar-light bg-dark static-top">
-            <div class="container">
-                <a class="navbar-brand text-white" href="#!">Web Internet Banking Kelompok 4</a>
-                <a class="btn btn-primary" href="{{ route('login') }}">Sign Up / Login</a>
-             
-            </div>
-        </nav>
+          <div class="container d-flex justify-content-between align-items-center">
+              <a class="navbar-brand text-white" href="#!">Web Internet Banking Kelompok 4</a>
+              <div>
+                  <a class="btn btn-primary" href="{{ route('register') }}">Register</a>
+                  <a class="btn btn-primary ml-2" href="{{ route('login') }}">Login</a>
+              </div>
+          </div>
+      </nav>
         <!-- Masthead-->
         <header class="masthead">
             <div class="container position-relative">
