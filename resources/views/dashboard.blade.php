@@ -10,6 +10,8 @@
             <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-sm sm:rounded-lg">
                 <div class="p-6 text-gray-900 dark:text-gray-100">
                     {{ __("You're logged in!") }}
+                    <br><br><br><br><br>
+                    <a href="{{ url('/view-accounts') }}" class="text-blue-500 hover:text-blue-700">View Accounts</a>
                 </div>
             </div>
         </div>
