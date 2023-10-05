@@ -26,7 +26,7 @@ Jalankan Program di Local Computer Untuk kolaborasi
 2. Login (Sudah Tinggal Penambahan dan Perbaikan)
 3. Logout (Sudah Tinggal Penambahan dan Perbaikan)
 4. Edit Profil (Sudah Tinggal Penambahan dan Perbaikan)
-5. Menampilkan Saldo (Belum)
+5. Menampilkan Saldo (sudah tapi masih basic)
 ## Hapus Readme.md di local file sebelum push di github
 
 ## Demo sebelum pengerjaan ada di rekaman zoom di grup chat
